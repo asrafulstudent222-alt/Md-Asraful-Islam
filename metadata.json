@@ -1,0 +1,7 @@
+{
+  "name": "VectorVisions AI",
+  "description": "A professional vector-based UI/UX design tool that generates high-quality SVG layouts from briefs, files, and links using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
